@@ -5,7 +5,9 @@
 
 ### Hello world in nodejs
 `console.log('hello-world')`
+
 *Output*
+
 ![Alt text](image.png)
 
 ## CREATION OF SERVER IN NODE JS
