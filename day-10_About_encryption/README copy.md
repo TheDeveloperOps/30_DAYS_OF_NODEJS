@@ -1,5 +1,5 @@
-# Day 8
-# PUBLISHING PACKAGES ON NPM
+# Day 10
+# ENCRYPTION AND DECRYPTION
 
 **Data that can be read and understood easily is know as plain text. The problem with plain text is that everyone can read it. But sometimes we don't want everyone to have the access to rea the data i.e. the confidentiality of the data needs to be maintained.**
 
