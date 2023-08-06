@@ -68,7 +68,7 @@ console.log(d)
 
 ```
 *OUTPUT*
-![Alt text](image.png)
+![Alt text](<image copy.png>)
 
 ## Asymmetric Encryption and Decryption
 **Also known as public key encryption, we use different key for decryption from the one we used for encryption. There are 2 possibilities which are explained with code snippets below :**
