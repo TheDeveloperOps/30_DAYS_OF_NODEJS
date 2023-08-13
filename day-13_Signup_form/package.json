@@ -1,0 +1,15 @@
+{
+  "name": "day-13_signup_form",
+  "version": "1.0.0",
+  "description": "**We've reached day 13th of our 30 days of node and here we are with our first project tutorial in which we create a login system using HTML5 , CSS3 , bootstrap , node , express and mongodb. What's unique about this tutorial is that you get to learn everything from the html and styles to complex technical topics like perform HMAC operation on password.**\r *Please Note that encrypting passwords with SHA is unsafe and we strongly recommend that you should not use it in production.*\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0"
+  }
+}
