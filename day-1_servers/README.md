@@ -6,7 +6,7 @@
 ### Hello world in nodejs
 `console.log('hello-world')`
 
-*Output*
+*Output*ls nng lsk
 
 ![Alt text](image.png)
 
