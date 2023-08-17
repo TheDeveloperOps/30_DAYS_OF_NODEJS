@@ -91,7 +91,7 @@ console.log('Another task to be executed');
 
 ## Avoiding callback hell 
 
-1. `Modularization` : By making our code as much modular as possible, callback hell can be avaoided.
+1. `Modularization` : By making our code as much modular as possible, callback hell can be avaided.
 2. `Promise` : We can use the concepts of promises to avoid callback hell.
 3. `Async.js` : Async is a very powerful module on npm , which can be used to avoid callback hell.
 4. `Chaining promises `: We can avoid callback hell by chaining promises.
